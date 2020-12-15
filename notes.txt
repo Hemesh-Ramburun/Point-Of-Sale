@@ -1,0 +1,6 @@
+1. virtual env for development
+    > pipenv install
+
+2. first command to run is 
+    > pipenv shell
+
